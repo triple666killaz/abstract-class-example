@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3rxOBwE1dOKkWsrMwIbWes8mpEFgZJZk4wap3xrrpCA6nKnNql32zpj9yZBQcC1iHugXGRW/2a1d9HeBnwJ14A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EZEVIN\\source\\repos\\AbstractClassExample\\AbstractClassExample\\AbstractClassExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EZEVIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
